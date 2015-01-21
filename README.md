@@ -1,5 +1,5 @@
-# webaudioworkshop
-Web Audio Workshop at ITP Unconference, Jan 20 2015.
+# Web Audio Workshop
+## ITP Unconference, Jan 20 2015.
 
 [Slides](https://docs.google.com/presentation/d/1PdQQ_YVPQMw8K_-lgsQQ1_rV-ucTVIxpcbinCAtibWM/edit?usp=sharing)
 
